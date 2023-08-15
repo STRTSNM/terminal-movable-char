@@ -9,3 +9,4 @@ NOTE:
   If you find that the input is messing with the printed characters, then try putting your terminal in read-only mode.
 
 Screenshot:
+![](https://raw.githubusercontent.com/STRTSNM/terminal-movable-char/main/image.png)
